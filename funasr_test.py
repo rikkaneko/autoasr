@@ -1,6 +1,5 @@
 from funasr import AutoModel
 from huggingface_hub import snapshot_download
-from pynput.keyboard import Key, Listener
 import pyaudio
 import numpy as np
 import wave
